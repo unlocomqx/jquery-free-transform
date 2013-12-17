@@ -73,7 +73,7 @@ The `'rot-origin'` property is a string formatted just like the `'transform-orig
 
 ##### Showing/Hiding the controls
 
-You can show and hide the controls by passing `'controls'` to the plugin folloed by a boolean to either show or hide the controls.
+You can show and hide the controls by passing `'controls'` to the plugin followed by a boolean to either show or hide the controls.
 
 	// hide the controls
 	$('mydiv').freetrans('controls', false);
